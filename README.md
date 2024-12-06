@@ -1,6 +1,2 @@
-# Basic Restaurant Billing System
-A simple Python program for managing restaurant billing. This system allows users to select menu items, calculate the total bill, and provide a summary of the order.
-## Features:
-- Interactive menu for order placement.
-- Automatic bill calculation.
-- Easy to customize for any restaurant.
+# Array Master
+Array Master provides a collection of array operations and functionalities for efficient manipulation of arrays. From searching and sorting to merging and transforming arrays. It's designed to help developers manage arrays more effectively and enhance coding productivity.
